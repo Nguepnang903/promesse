@@ -1,0 +1,93 @@
+section {
+  /* border:2px solid blue; */
+  height:100vh;
+  display:flex
+}
+ header{
+  /* border:2px solid red; */
+  width:15%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background-color:red;
+  color:white;
+  font-size:18px;
+ }
+ main{
+  /* border:2px solid green; */
+  width:70%
+
+ }
+ .top{
+  /* border:2px solid yellow; */
+  height:15vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background-color:yellow;
+  color:white;
+  font-size:18px;
+ }
+ .center{
+  /* border:2px solid orange; */
+  height:70vh;
+  display:flex;
+ }
+ .bottom1{
+
+  height:15vh;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background-color:indianred;
+  color:white;
+  font-size:18px;
+ }
+ .left{
+  /* border:2px solid grey; */
+  width:50%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background-color:grey;
+  color:white;
+  font-size:18px;
+
+ }
+ .right{
+  /* border:2px solid black; */
+  width:50%
+ }
+  footer{
+  /* border:2px solid yellowgreen; */
+  width:15%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background-color:yellowgreen;
+  color:white;
+  font-size:18px;
+  }
+
+ .top1{
+  /* border:2px solid yellow; */
+  height:50%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background-color:yellow;
+  color:white;
+  font-size:18px;
+
+ }
+.bottom{
+  /* border:2px solid purple; */
+  height:50%;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  background-color:purple;
+  color:white;
+  font-size:18px;
+
+ }
